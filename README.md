@@ -1,2 +1,0 @@
-# LogicProHome
-Home
